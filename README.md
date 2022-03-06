@@ -10,3 +10,12 @@ PCB with startup delay (I2C) mod with a DM 2.4" OLED
 - Solder only one C and one R!
 - Use only plastic screws and stands!
 ! (GND plane on both sides) !
+
+## Contributing
+
+**Please take care on which branch you're currently working!**
+
+Branches:
+
+- *master* - this branch always holds the latest released revision
+- *develop* - this is the develop branch with new features. Please base your patches on this branch.
