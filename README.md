@@ -3,7 +3,7 @@
 # freeDSP-aurora-extension-i2c-mod-display
 PCB with startup delay (I2C) mod with a DM 2.4" OLED
 
-![PCB Top](Picture/freeDSP-aurora-extension-i2C-mod-display_top_small.jpg)
+![PCB Top](Picture/freeDSP-aurora-extension-i2C-mod-display_top_small)
 ![PCB Top](Picture/freeDSP-aurora-extension-i2C-mod-display_bottom_small.jpg)
 
 *Instructions:*

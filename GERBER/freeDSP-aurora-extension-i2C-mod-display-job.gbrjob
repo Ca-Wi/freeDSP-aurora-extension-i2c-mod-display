@@ -3,15 +3,15 @@
     "GenerationSoftware": {
       "Vendor": "KiCad",
       "Application": "Pcbnew",
-      "Version": "(6.99.0-1006-g2560c8f31b)"
+      "Version": "(6.99.0-1533-gf0f33ef1d3)"
     },
-    "CreationDate": "2022-03-06T12:20:51+01:00"
+    "CreationDate": "2022-04-06T09:11:22+02:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
       "Name": "freeDSP-aurora-extension-i2C-mod-display",
       "GUID": "66726565-4453-4502-9d61-75726f72612d",
-      "Revision": "v1.1"
+      "Revision": "v1.2"
     },
     "Size": {
       "X": 76.157,

@@ -1,4 +1,4 @@
-(kicad_sch (version 20220126) (generator eeschema)
+(kicad_sch (version 20220331) (generator eeschema)
 
   (uuid e63e39d7-6ac0-4ffd-8aa3-1841a4541b55)
 
@@ -6,8 +6,8 @@
 
   (title_block
     (title "freeDSP aurora display extension board (I2C mod)")
-    (date "2022-01-22")
-    (rev "v1.1")
+    (date "2022-04-06")
+    (rev "v1.2")
     (company "Carsten Witt (cw)")
     (comment 3 "freeDSP aurora display extension board (I2C mod)")
   )
@@ -468,7 +468,7 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 98c22792-0834-4f11-9b8c-8e96da9b4718)
   )
-  (label "Vcc 3V3" (at 109.22 91.44 0) (fields_autoplaced)
+  (label "Vcc (3V3)" (at 109.22 91.44 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid ccf727cf-1212-4af8-9253-9d19dbc7928e)
   )
